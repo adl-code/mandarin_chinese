@@ -1,8 +1,8 @@
 # Mục lục #
-- [Động từ năng nguyện](#dng_t_nng_nguyn)
-  - [Cấu trúc chung](#cu_trc_chun)
-  - [会 (huì)](#hi)
-- [Cấu trúc 又 (yòu) ... 又 (yòu)](#cu_trc_yu_yu) 
+- [Động từ năng nguyện](#động_từ_năng_nguyện)
+  - [Cấu trúc chung](#cấu_trúc_chung)
+  - [会 (huì)](#huì)
+- [Cấu trúc 又 (yòu) ... 又 (yòu)](#cấu_trúc_又yòu_又yòu) 
 
 # Động từ năng nguyện #
 ## Cấu trúc chung ##
